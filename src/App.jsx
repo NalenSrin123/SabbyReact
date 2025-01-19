@@ -19,10 +19,11 @@ function App(){
         </div>
       </nav>
       <section>
-    <h1>Main Content</h1>
+          <h1>Main Content</h1>
       </section>
       <footer>
-    <h1>Footer</h1>
+          <img src="https://news.sabay.com.kh/img/logo.png" alt="" />
+          <h1>Sabby News</h1>
       </footer>
     </>
   );
